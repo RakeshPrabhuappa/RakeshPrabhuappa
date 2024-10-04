@@ -1,14 +1,14 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1698883200&v=beta&t=s5dzeckUC08Jo-VEqY3xEdOMcE5oXKOfU-CKKK5F-gA)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python , Django , core JS**
+- 💬 Ask me about **Python , Django , FastAPI , RESTAPI , Postgresql , Mongodb , MYSql**
 
 - 📫 How to reach me **rakeshbg333@gmail.com**
 
